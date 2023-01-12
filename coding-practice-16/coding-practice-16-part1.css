@@ -1,0 +1,47 @@
+.background {
+    background-Color: #f5f7fa;
+
+}
+
+.heading {
+    font-size: 65px;
+    color: darkblue;
+    font-weight: bold;
+}
+
+.background2 {
+    background-color: white;
+    border-radius: 20px;
+}
+
+.text {
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #1f2933;
+    font-size: 200%;
+}
+
+.imaze {
+    width: 100%;
+    border-radius: 40px;
+}
+
+.heading2 {
+    font-size: 140%;
+    color: darkblue;
+}
+
+.text2 {
+    font-size: 130%;
+    color: orange;
+    font-weight: 400;
+}
+
+.imaze2 {
+    width: 100%;
+}
+
+.text2 {
+    font-size: 140%;
+    color: darkblue;
+}

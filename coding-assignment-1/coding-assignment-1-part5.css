@@ -1,0 +1,26 @@
+.heading {
+    color: #3232f4;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.paragraph {
+    color: #9aa5b1;
+    font-size: 23px;
+    text-align: center;
+}
+
+.logo1 {
+    height: 120px;
+}
+
+.heading2 {
+    color: #3232f4;
+    font-size: 30px;
+}
+
+.paragraph2 {
+    color: #9aa5b1;
+    font-size: 20px;
+}

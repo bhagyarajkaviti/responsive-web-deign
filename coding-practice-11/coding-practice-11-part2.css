@@ -1,0 +1,45 @@
+.background {
+    background-color: #3e4c59;
+}
+
+.heading1 {
+    color: #cced00;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.heading2 {
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.picture {
+    width: 100%;
+}
+
+.container1 {
+    background-color: #323f4b;
+    padding: 15px;
+}
+
+.side-heading1 {
+    color: #9aa5b1;
+    font-size: 30px;
+}
+
+.side-heading2 {
+    color: #ffffff;
+    font-size: 40px;
+}
+
+.text {
+    color: #9aa5b1;
+    font-size: 35px;
+}
+
+.anchor {
+    color: #cced00;
+    font-size: 22px;
+    font-weight: bold;
+}

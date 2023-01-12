@@ -1,0 +1,35 @@
+.background {
+    background-color: #1f2933;
+    padding: 50px;
+}
+
+.heading1 {
+    color: #cced00;
+    font-size: 30px;
+}
+
+.heading2 {
+    color: #ffffff;
+    font-size: 55px;
+}
+
+.background2 {
+    background-color: #323f4b;
+
+}
+
+.image {
+    border-radius: 100px;
+    height: 140px;
+    width: 140px;
+}
+
+.side-heading1 {
+    color: #9aa5b1;
+    font-size: 35px;
+}
+
+.side-heading2 {
+    color: #ffffff;
+    font-size: 35px;
+}

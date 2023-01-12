@@ -1,0 +1,22 @@
+.background {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png');
+    background-size: cover;
+    padding: 3;
+}
+
+.number {
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.text {
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.horzontal {
+    background-color: white;
+    width: 60px;
+}

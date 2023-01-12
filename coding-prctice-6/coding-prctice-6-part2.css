@@ -1,0 +1,21 @@
+.backgrond-color {
+    background-color: #f9fbfe;
+}
+
+.logo {
+    height: 280px;
+    width: 250px;
+}
+
+.heading {
+    font-size: 25px;
+}
+
+.view-container {
+    text-align: center;
+}
+
+.main-heading {
+    font-size: 28px;
+    font-weight: bold;
+}

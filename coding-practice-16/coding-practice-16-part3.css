@@ -1,0 +1,43 @@
+.background {
+    background-color: #0d2436;
+}
+
+.logo {
+    height: 56px;
+    width: 163px;
+}
+
+.logo2 {
+    color: white;
+    font-size: 30px;
+    background-color: #5a7184;
+    border-radius: 30px;
+    padding: 15px;
+}
+
+.paragraph1 {
+    font-size: 24px;
+    color: #ffffff;
+}
+
+.heading {
+    font-size: 30px;
+    color: #5a7184;
+    font-weight: bold;
+}
+
+.list {
+    list-style-type: none;
+    padding-bottom: 10px;
+}
+
+.horizontal {
+    background-color: white;
+}
+
+.logo3 {
+    color: white;
+    font-size: 30px;
+    border-radius: 30px;
+
+}

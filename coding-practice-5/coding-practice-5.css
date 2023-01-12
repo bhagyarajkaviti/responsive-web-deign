@@ -1,0 +1,39 @@
+.logo {
+    height: 40px;
+    width: 60px;
+}
+
+#link-text1 {
+    font-size: 15px;
+    color: #323f4b;
+    font-weight: 600;
+}
+
+#link-text2 {
+    font-size: 15px;
+    color: #323f4b;
+    font-weight: 600;
+}
+
+#link-text3 {
+    font-size: 15px;
+    color: #323f4b;
+    font-weight: 600;
+}
+
+.background-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png');
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+}
+
+.button1 {
+    background-color: #323f4b;
+    color: #ffffff;
+    border-radius: 2px;
+    border-width: 0px;
+    padding: 5px;
+    width: 100px;
+    height: 40px;
+}

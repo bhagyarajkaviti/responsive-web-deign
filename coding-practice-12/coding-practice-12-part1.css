@@ -1,0 +1,35 @@
+.background {
+    background-color: #52606d;
+}
+
+.heading1 {
+    color: #cced00;
+    font-size: 28px;
+
+}
+
+.heading2 {
+    color: #ffffff;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.background2 {
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+
+.logo {
+    width: 60px;
+}
+
+.heading3 {
+    color: #ffffff;
+    font-size: 34px;
+    font-weight: 600;
+}
+
+.text {
+    font-size: 26px;
+    color: #9aa5b1;
+}

@@ -1,0 +1,63 @@
+.heading {
+    color: #183b56;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.image1 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+    background-size: cover;
+}
+
+.imaze-size {
+    border-radius: 20px;
+    height: 500px;
+
+}
+
+.image2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+    background-size: cover;
+}
+
+.button {
+    font-size: 20px;
+    height: 55px;
+    width: 154px;
+    border-radius: 30px;
+    border-width: 0px;
+    color: orange;
+}
+
+.side-heading {
+    color: white;
+}
+
+.text {
+    color: white;
+}
+
+.popet-heading {
+    color: #323f4b;
+    font-size: 27px;
+
+}
+
+.popet-text {
+    color: #323f4b;
+    font-size: 20px;
+
+}
+
+.popet-text2 {
+    color: #323f4b;
+    font-size: 23px;
+    list-style-type: none;
+    font-weight: 600;
+}
+
+.span {
+    color: #323f4b;
+    font-size: 18px;
+    font-weight: 300;
+}

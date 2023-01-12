@@ -1,0 +1,23 @@
+.background2 {
+    background-color: #001c32;
+    background-size: cover;
+}
+
+.logo {
+    height: 110px;
+    width: 110px;
+    border-radius: 90px;
+}
+
+.heading {
+    color: #cced00;
+}
+
+.background {
+    background-color: #0d2436;
+}
+
+.text {
+    color: #9aa5b1;
+    font-size: 23px;
+}

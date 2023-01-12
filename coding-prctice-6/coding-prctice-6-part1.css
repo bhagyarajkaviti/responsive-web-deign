@@ -1,0 +1,41 @@
+container-background {
+    padding: 20px;
+}
+
+.main-heading {
+    font-size: 30px;
+    font-weight: 800;
+    font-family: "Roboto";
+    color: #1f2933;
+}
+
+.image {
+    height: 70px;
+    width: 70px;
+}
+
+.view-heading {
+    font-size: 26px;
+    font-weight: 600;
+    font-family: "Roboto";
+    color: #1f2933;
+}
+
+.view-text {
+    font-size: 20px;
+    font-family: "Roboto";
+    color: #7b8794;
+}
+
+.view-container {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.span-text {
+    font-size: 20px;
+    font-family: "Roboto";
+    color: #1f2933;
+    font-weight: bold;
+    font-style: italic;
+}

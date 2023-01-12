@@ -1,0 +1,30 @@
+.heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    color: #1f2933;
+    padding-top: 10px;
+}
+
+.imaze {
+    width: 100%;
+}
+
+.hyperlink {
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.side-heading {
+    font-size: 18px;
+    color: #959ead;
+}
+
+.text {
+    font-size: 29px;
+    color: #323f4b;
+}
+
+.button {
+    width: 190px;
+}

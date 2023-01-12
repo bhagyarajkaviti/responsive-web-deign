@@ -1,0 +1,38 @@
+.background {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+
+}
+
+.heading1 {
+    font-size: 38px;
+    color: #ad2167;
+    font-family: "bree Serif";
+}
+
+.text1 {
+    font-size: 28px;
+    color: white;
+    font-family: "Roboto";
+}
+
+.span {
+    font-style: italic;
+    font-weight: 600;
+    color: white;
+}
+
+.text2 {
+    font-size: 32px;
+    color: yellow;
+    font-family: "Roboto";
+}
+
+.text3 {
+    font-size: 20px;
+    color: white;
+    font-family: "Roboto";
+}
+
+.img3 {
+    width: 100%;
+}

@@ -1,0 +1,20 @@
+.heading {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.button {
+    background-color: white;
+    border-style: solid;
+    border-width: 3px;
+    font-size: 25px;
+    border-color: orange;
+    color: orange;
+    padding: 13px;
+}
+
+.background {
+    background-color: #f5f7fa;
+    padding: 20px;
+}

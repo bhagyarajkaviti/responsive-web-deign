@@ -1,0 +1,22 @@
+.image-size {
+    width: 100%;
+}
+
+.main-heading {
+    color: #1f2933;
+    font-size: 35px;
+    font-family: "Roboto";
+}
+
+.main-text {
+    color: lightblue;
+    font-size: 18px;
+    font-family: "Roboto";
+}
+
+.button1 {
+    background-color: #1a2137;
+    color: white;
+    border-radius: 5px;
+    width: 130px;
+}

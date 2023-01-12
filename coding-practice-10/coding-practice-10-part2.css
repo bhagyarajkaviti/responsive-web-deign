@@ -1,0 +1,48 @@
+#logo {
+    color: white;
+    font-size: 25px;
+    border-width: 2px;
+    border-style: solid;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-color: blue;
+}
+
+.background-container {
+    background-color: #191a1d;
+    height: 120vh;
+
+}
+
+.img-size {
+    height: 45vh;
+    width: 45vh;
+
+}
+
+.heading {
+    font-size: 40px;
+    color: #ffffff;
+}
+
+.heading2 {
+    font-size: 40px;
+    color: #4b6cc1;
+}
+
+.text {
+    font-size: 30px;
+    color: #9aa5b1;
+}
+
+.button {
+    padding: 10px;
+    background-color: #4b6cc1;
+    height: 70px;
+    width: 180px;
+    font-family: "Roboto";
+    font-size: 20px;
+    border-radius: 10px;
+    color: white;
+    border-width: 0px;
+}

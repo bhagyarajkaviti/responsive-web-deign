@@ -1,0 +1,29 @@
+.ExploreMenuSection{
+    background-color: white;
+}
+.ExploreSectionHeading{
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+.MenuItemImage{
+    border-radius: 16px;
+    
+}
+.MenuItemTitle{
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+.MenuItemLink{
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+.MenuItemCard{
+    border-radius: 16px;
+}
